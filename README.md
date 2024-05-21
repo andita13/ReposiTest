@@ -1,2 +1,2 @@
 # ReposiTest
-coba githubeq
+coba github
